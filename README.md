@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel Rocha
 
-🌱 Estudante da FATEC - SJC ( ANÁLISE E DESENVOLVIMENTO DE SISTEMAS ).
+🌱 Estudante da FATEC - SJC ( ANÁLISE E DESENVOLVIMENTO DE SISTEMAS )
 
 ## 📈 Minhas Habilidades:
 - **Linguagens**: Java, JavaScript, Python, HTML, CSS
@@ -16,7 +16,7 @@
 
 ## 📫 Principais Contatos:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iryanreiszs/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/gabriel-rocha-wk27/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielrocha.wk27@gmail.com)
 [![Gitgub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielRocha-27)
 
