@@ -10,7 +10,7 @@
 
 ## 📊 Minhas Estatísticas no GitHub:
 
-![GabrielRocha-27 GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRocha-27&show_icons=true&theme=dracula)
+![GabrielRocha-27GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRocha-27&show_icons=true&theme=dracula)
 <br/>
 
 
