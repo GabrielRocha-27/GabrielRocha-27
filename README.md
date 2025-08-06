@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel Rocha
 
-🌱 Estudante da FATEC - SJC ( Banco de Dados)
+🌱 Estudante da FATEC - SJC (Banco de Dados)
 
 ## 📈 Minhas Habilidades:
 - **Linguagens**: Java, JavaScript, Python, HTML, CSS
