@@ -3,9 +3,9 @@
 🌱 Estudante da FATEC - SJC (Banco de Dados)
 
 ## 📈 Minhas Habilidades:
-- **Linguagens**: Java, JavaScript, Python, HTML, CSS
-- **Frameworks e Ferramentas**: React, Node.js, Express, Git, Docker
-- **Banco de Dados**: MySQL, MongoDB
+- **Linguagens**: Java, Python, JavaScript, C, C#
+- **Frameworks e Ferramentas**: React, Node.js, Git, Docker, Spring boot
+- **Banco de Dados**: MySQL, PostgreSQL
 - **Metodologias**: Agile, Scrum
 
 ## 📊 Minhas Estatísticas no GitHub:
