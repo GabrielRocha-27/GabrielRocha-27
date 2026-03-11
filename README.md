@@ -4,7 +4,7 @@
 
 ## 📈 Minhas Habilidades:
 - **Linguagens**: Java, Python, JavaScript, C, C#
-- **Frameworks e Ferramentas**: React, Node.js, Git, Docker, Spring boot
+- **Frameworks e Ferramentas**: Git, Docker, Spring Boot, React, Node.js
 - **Banco de Dados**: MySQL, PostgreSQL
 - **Metodologias**: Agile, Scrum
 
